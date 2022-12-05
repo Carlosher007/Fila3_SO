@@ -3,4 +3,4 @@
 ## Conformado por:
 * Brandon Calderon Prieto
 * Carlos Andrés Hernández
-* ...
+* Manuel
